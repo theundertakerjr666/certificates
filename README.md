@@ -1,4 +1,5 @@
 # certificates
 certificates
-Please refer to:
+
+Please refer also to:
 https://www.credly.com/users/justin-raj-anthony/badges
